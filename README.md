@@ -14,9 +14,8 @@
 
 
   **Introduction Générale:**
-              
-    Ce projet consiste en un système ADAS qui utilise un modèle de machine learning pour détecter et lire les panneaux routiers. Le modèle est intégré à une application web développée avec la pile MERN (MongoDB, Express.js, React, Node.js). Cette application permet de visualiser les informations des panneaux routiers       
-  détectés et de gérer l'authentification des utilisateurs.
+  
+  Ce projet consiste en un système ADAS qui utilise un modèle de machine learning pour détecter et lire les panneaux routiers. Le modèle est intégré à une application web développée avec la pile MERN (MongoDB, Express.js, React, Node.js). Cette application permet de visualiser les informations des panneaux routiers détectés et de gérer l'authentification des utilisateurs.
 
   **Fonctionnalités:**
               
@@ -39,22 +38,22 @@
 
   **Installation:**
 
-1.Clonez le dépôt :
+***1.Clonez le dépôt :***
 
       git clone (url of the repository)
       cd 
 
-2.Installez les dépendances pour le backend :
+***2.Installez les dépendances pour le backend :***
       
       cd backend
       npm install
 
-3.Installez les dépendances pour le frontend :
+***3.Installez les dépendances pour le frontend :***
 
       cd ../frontend
       npm install
 
-4.Configurez les variables d'environnement :
+***4.Configurez les variables d'environnement :***
 
 Créez un fichier .env dans le dossier backend et ajoutez les configurations suivantes :
 
@@ -62,7 +61,7 @@ Créez un fichier .env dans le dossier backend et ajoutez les configurations sui
       MONGODB_URI=votre_mongodb_uri
       JWT_SECRET=votre_secret_jwt
 
-5.Lancer l'Application
+***5.Lancer l'Application***
 
 Démarrez le serveur backend :
 
