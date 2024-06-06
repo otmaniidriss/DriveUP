@@ -1,6 +1,6 @@
 Ce projet consiste en un système ADAS qui utilise un modèle de machine learning pour détecter et lire les panneaux routiers. Le modèle est intégré à une application web développée avec la pile MERN (MongoDB, Express.js, React, Node.js). Cette application permet de visualiser les informations des panneaux routiers détectés et de gérer l'authentification des utilisateurs.
 
-*Fonctionnalités :*
+**Fonctionnalités :**
 
 Détection des Panneaux Routiers : Utilisation d'un modèle de machine learning pour identifier et lire les panneaux routiers.
 Affichage des Informations : Présentation des informations des panneaux détectés en temps réel via l'application web.
